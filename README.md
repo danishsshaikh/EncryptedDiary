@@ -44,22 +44,22 @@ If no errors appeared then the installation is done correctly.
 
 The Diary uses the following functions :
 
-- * The	Generate	new	key	button *	generates	new	key
-- * Take input in Diary button * accepts	and	collects	what	you have	written	in	the	textbox	and	then	sends	it	to	the	encrypt function	and	thus	an	encrypted	ﬁle	is	created	in	the	directory. 
-- * Decrypt the Diary button * opens	the	‘.encrypted’	diary	ﬁle and	exports	it	as	a	text	ﬁle	in	the	same	directory.
-- * Erase all traces * button	erases	all	the	traces	,i.e,all	the	ﬁles and	key	ﬁles	of	the	program	from	the	directory(computer). 
-- * Exit Button * closes	the	program	window	and	stops	the execution	of	the	program. 
+- ** The	Generate	new	key	button **	generates	new	key
+- ** Take input in Diary button ** accepts	and	collects	what	you have	written	in	the	textbox	and	then	sends	it	to	the	encrypt function	and	thus	an	encrypted	ﬁle	is	created	in	the	directory. 
+- ** Decrypt the Diary button ** opens	the	‘.encrypted’	diary	ﬁle and	exports	it	as	a	text	ﬁle	in	the	same	directory.
+- ** Erase all traces ** button	erases	all	the	traces	,i.e,all	the	ﬁles and	key	ﬁles	of	the	program	from	the	directory(computer). 
+- ** Exit Button ** closes	the	program	window	and	stops	the execution	of	the	program. 
 
 ## Contributers 
 [Yash Kadam](https://github.com/reziorr)
 
 ## To-Do's
 
--Add	multiple	simultaneous	ﬁle	encryption	and	decryption support 
--Add	a	password	module	so	that	only	the	ones	with	the	correct password	can	access	the	program 
--Add	support	send	the	encrypted	ﬁles	via	email	directly	trough the	program 
--Make	the	program	more	secure 
--Add	some	kind	of	backup	methods 
+- Add	multiple	simultaneous	ﬁle	encryption	and	decryption support 
+- Add	a	password	module	so	that	only	the	ones	with	the	correct password	can	access	the	program 
+- Add	support	send	the	encrypted	ﬁles	via	email	directly	trough the	program 
+- Make	the	program	more	secure 
+- Add	some	kind	of	backup	methods 
 
 ## License 
 

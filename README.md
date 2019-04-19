@@ -33,9 +33,11 @@ Our	program	uses	a	number	of	python	modules	to	work	properly:
 This Encrypted Diary requires [Cryptography](https://cryptography.io/en/latest/) package to run.
 
 Install the package by typing the following in CMD
+
 `python	-m	pip	install	cryptography`
 
 To make sure it is installed correctly, open IDLE and execute :
+
 `import cryptography`
 
 If no errors appeared then the installation is done correctly.
@@ -44,11 +46,11 @@ If no errors appeared then the installation is done correctly.
 
 The Diary uses the following functions :
 
-- ** The	Generate	new	key	button **	generates	new	key
-- ** Take input in Diary button ** accepts	and	collects	what	you have	written	in	the	textbox	and	then	sends	it	to	the	encrypt function	and	thus	an	encrypted	ﬁle	is	created	in	the	directory. 
-- ** Decrypt the Diary button ** opens	the	‘.encrypted’	diary	ﬁle and	exports	it	as	a	text	ﬁle	in	the	same	directory.
-- ** Erase all traces ** button	erases	all	the	traces	,i.e,all	the	ﬁles and	key	ﬁles	of	the	program	from	the	directory(computer). 
-- ** Exit Button ** closes	the	program	window	and	stops	the execution	of	the	program. 
+- **The	Generate	new	key	button**	generates	new	key
+- **Take input in Diary button** accepts	and	collects	what	you have	written	in	the	textbox	and	then	sends	it	to	the	encrypt function	and	thus	an	encrypted	ﬁle	is	created	in	the	directory. 
+- **Decrypt the Diary button** opens	the	‘.encrypted’	diary	ﬁle and	exports	it	as	a	text	ﬁle	in	the	same	directory.
+- **Erase all traces** button	erases	all	the	traces	,i.e,all	the	ﬁles and	key	ﬁles	of	the	program	from	the	directory(computer). 
+- **Exit Button** closes	the	program	window	and	stops	the execution	of	the	program. 
 
 ## Contributers 
 [Yash Kadam](https://github.com/reziorr)

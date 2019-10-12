@@ -59,7 +59,7 @@ The Diary uses the following functions :
 
 - Add	multiple	simultaneous	ﬁle	encryption	and	decryption support 
 - Add	a	password	module	so	that	only	the	ones	with	the	correct password	can	access	the	program 
-- Add	support	send	the	encrypted	ﬁles	via	email	directly	trough the	program 
+- Add	support	send	the	encrypted	ﬁles	via	email	directly	through the	program 
 - Make	the	program	more	secure 
 - Add	some	kind	of	backup	methods 
 
